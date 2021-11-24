@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /php/
+Disallow: /Project 33.33%/
+
+Sitemap: http://dockhat.com/sitemap.xml
